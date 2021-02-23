@@ -5,6 +5,7 @@ Permette di aggiungere delle scorciatoie da tastiera per fare queste cose
 
 # Usare lo script
 Per utilizzarlo (testato su Chrome e Firefox):
-- premere <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>I</kbd> 
+- far partire il video
+- click destro e "ispeziona"
 - selezionare Console
 - incollare il contenuto dello script
