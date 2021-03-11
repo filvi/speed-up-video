@@ -6,6 +6,6 @@ Permette di aggiungere delle scorciatoie da tastiera per fare queste cose
 # Usare lo script
 Per utilizzarlo (testato su Chrome e Firefox):
 - far partire il video
-- click destro e "ispeziona"
+- click destro e "ispeziona" sul video
 - selezionare Console
 - incollare il contenuto dello script
